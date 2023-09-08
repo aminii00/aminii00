@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm ChoiMinA</h1>
+<h1>Hi! 👋, I'm Min A! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
 <h3 align="left">Languages and Tools:</h3>
