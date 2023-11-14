@@ -1,5 +1,32 @@
-<h1>✿✿✿✿✿✿Hi! 💟, I'm Min A!✿✿✿✿✿✿</h1>
-<h3 align="left">Languages and Tools:</h3>
-✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ
+## ✿ 안녕하세요. 최민아 입니다. ✿
+
+- **#자바 백엔드 개발자**
+- 📫 이메일 : aminii00@naver.com
+
+## 🛠 프로그래밍 언어 Skill
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-46a2f1?style=flat-square&logo=Java&logoColor=white" /> 
+  <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-2088FF?style=flat-square&logo=SpringBoot&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-css3-FB542B?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-5849BE?style=flat-square&logo=JavaScript&logoColor=white" />
+</p>
+
+
+## ✏ 교육 및 대외 활동 사항
+#### 2️⃣ AWS 클라우드기반 자바&스프링&리액트 풀스택 개발자 양성
+- 대전 그린아트컴퓨터학원
+- 2023.03 ~ 2023.09 (6개월)
+
+## 👨‍👨‍👧‍👧 팀 프로젝트
+### 📕 1인 가구를 위한 쇼핑몰 홈페이지 '원이츠'
+- Github: https://github.com/aminii00/oneEats_shoppingmal
+- 팀원 - 강민지, 최민아(본인), 한예지, 황채연
+- '나' -  공지사항, 마이페이지 담당
+- 수행기간 : 2023.08.01. ~ 2023.09.14.
+- 목표 및 소개 : 1인가구를 타겟으로 0.5인분 단위로 판매하며, 못난이 농산물을 도입하여 비용부담을 줄이며 필요한 정보와 레시피가 담겨있는 커뮤니티의 장을 마련하고자 함
+![image](https://github.com/aminii00/aminii00/assets/89954944/317f0c65-1585-4eb0-90bc-b31b6ab7efdd)
+
+
+
+## 😀 미니 프로젝트
