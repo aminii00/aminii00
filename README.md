@@ -6,10 +6,16 @@
 ## 🛠 프로그래밍 언어 Skill
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-46a2f1?style=flat-square&logo=Java&logoColor=white" /> 
-  <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-2088FF?style=flat-square&logo=SpringBoot&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-css3-FB542B?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-5849BE?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-5849BE?style=flat-square&logo=JavaScript&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-2088FF?style=flat-square&logo=SpringBoot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 </p>
 
 
