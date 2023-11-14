@@ -7,7 +7,7 @@
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-46a2f1?style=flat-square&logo=Java&logoColor=white" /> 
   <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-2088FF?style=flat-square&logo=SpringBoot&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-css3-FB542B?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-5849BE?style=flat-square&logo=JavaScript&logoColor=white" />
 </p>
