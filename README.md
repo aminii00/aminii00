@@ -3,7 +3,7 @@
 - ⭐ **자바 백엔드 개발자** ⭐
 - 📫 이메일 : aminii00@naver.com
 
-## 🛠 프로그래밍 언어 Skill
+## 🛠 프로그래밍 언어 SKILLL
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-46a2f1?style=flat-square&logo=Java&logoColor=white" /> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
