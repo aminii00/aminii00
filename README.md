@@ -31,6 +31,17 @@
 - 공지사항, 마이페이지 담당
 - 수행기간 : 2023.08.01. ~ 2023.09.14.
 - 목표 및 소개 : 1인가구를 타겟으로 0.5인분 단위로 판매하며, 못난이 농산물을 도입하여 비용부담을 줄이며 필요한 정보와 레시피가 담겨있는 커뮤니티의 장을 마련하고자 함 
-![image](https://github.com/aminii00/aminii00/assets/89954944/317f0c65-1585-4eb0-90bc-b31b6ab7efdd)
+![image](https://github.com/aminii00/aminii00/assets/89954944/80b757d4-22b1-4e13-ac69-7447e15384fa)
+
+
+### 📕 googleColab에서 R을 이용한 배달앱 분석
+- Github: https://github.com/aminii00/DeliveryApp_analysis
+- 팀원 - 김도진, 최민아(본인), 류수민
+- 전체적인 분석, 해석
+- 수행기간 : 2021.9.1 ~ 2021.10.26
+- 목표 및 소개 :‘배달앱을 사용할 의향이 있는가’  <br><br> 이용자의 의도와 의향을 묻는 ‘행동의도’ 항목을 목적으로 정하고 행동의도 모형을 토대로 분석을 진행
+![image](https://github.com/aminii00/aminii00/assets/89954944/03de84d2-7418-49b4-ae58-ded123e37933)
+
+
 
 ## 😀 미니 프로젝트
