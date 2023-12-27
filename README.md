@@ -27,6 +27,7 @@
 ## 👨‍👨‍👧‍👧 팀 프로젝트
 ### 📕 1인 가구를 위한 쇼핑몰 홈페이지 '원이츠'
 - Github: https://github.com/aminii00/oneEats_shoppingmal
+- notion: https://www.notion.so/c0ffc7b3da2f49c69104be243f2f402c
 - 팀원 - 강민지, 최민아(본인), 한예지, 황채연
 - 공지사항, 마이페이지 담당
 - 수행기간 : 2023.08.01. ~ 2023.09.14.
