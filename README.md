@@ -44,10 +44,16 @@
 
 
 
-## 😀 미니 프로젝트
+## 😀 미니 프로젝트(개인)
+😀 게시판 
 - Github: https://github.com/aminii00/Board
 - 개인 프로젝트<br>
 ![image](https://github.com/aminii00/aminii00/assets/89954944/17f5111f-984d-4816-8ec6-7b0153216d2d)
+
+
+😀 영화예매
+- Github: https://github.com/aminii00/MoviePrac <br>
+![image](https://github.com/aminii00/aminii00/assets/89954944/3dcc2e3d-ef53-41b8-82fc-b76a8c43760d)
 
 
 
