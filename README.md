@@ -46,4 +46,15 @@
 
 ## 😀 미니 프로젝트
 - Github: https://github.com/aminii00/Board
-- 개인 프로젝트 (진행중, 70% 완성)
+- 개인 프로젝트<br>
+![image](https://github.com/aminii00/aminii00/assets/89954944/17f5111f-984d-4816-8ec6-7b0153216d2d)
+
+
+
+
+
+
+
+
+
+
